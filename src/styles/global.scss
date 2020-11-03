@@ -1,0 +1,35 @@
+#app {
+    padding: 10px;
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #2c3e50;
+    font-weight: 500;
+  }
+
+.container {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 4px;
+
+    &:first-child {
+        margin: 0 0 10px 0;
+    }
+
+    &:last-child {
+        margin: 10px 0 0 0;
+    }
+}
+
+p {
+    margin: 10px 0;
+
+    &:first-child {
+        margin: 0 0 10px 0;
+    }
+
+    &:last-child {
+        margin: 10px 0 0 0;
+    }
+}
