@@ -6,7 +6,7 @@
         </li>
         <li>
             <strong>Example-2&nbsp;</strong>
-            <router-link to="/ex-2">Child Communicates with Parent</router-link>
+            <router-link to="/ex-2">Child Communicates with Parent via $emit</router-link>
         </li>
     </ul>
 </template>
