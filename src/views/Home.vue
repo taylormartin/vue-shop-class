@@ -8,6 +8,10 @@
             <strong>Example-2&nbsp;</strong>
             <router-link to="/ex-2">Child Communicates with Parent via $emit</router-link>
         </li>
+        <li>
+            <strong>Example-3&nbsp;</strong>
+            <router-link to="/ex-3">Child Communicates with Parent via $emit with a value</router-link>
+        </li>
     </ul>
 </template>
 
